@@ -1,8 +1,16 @@
 {
-  "name": "backend",
+  "name": "wave_tech_server",
   "version": "0.0.1",
-  "description": "",
-  "author": "",
+  "description": "NestJS server for Wave Tech Assessment",
+  "author": "Michael Osas",
+
+  "keywords": [
+    "NestJS",
+    "Wave Tech",
+    "Assessment",
+    "API",
+    "Backend"
+  ],
   "private": true,
   "license": "UNLICENSED",
   "scripts": {
