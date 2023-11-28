@@ -126,6 +126,17 @@ This will start the application at `http://localhost:5000/api` (or your specifie
 
 ## API Endpoints
 
+- **POST /api/login**: Login with the credentials below.
+
+```
+
+"email": michaelosas78@gmail.com
+"password": Michael007
+
+```
+
+  Example: `http://localhost:5000/api/login`
+
 - **GET /api/hospitals**: Get a list of hospitals.
 
   Example: `http://localhost:5000/api/hospitals`
@@ -134,7 +145,6 @@ This will start the application at `http://localhost:5000/api` (or your specifie
 
   Example: `http://localhost:5000/api/users/1`
 
-- [Add more endpoints as needed]
 
 ## Contributing
 
@@ -142,4 +152,4 @@ Contributions are welcome! Feel free to open an issue or submit a pull request.
 
 ## License
 
-This project is licensed under the [Your License Name] License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the [MIT License](LICENSE). Feel free to modify and use it according to your needs.
