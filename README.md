@@ -61,7 +61,7 @@ To clone and install the project, follow these steps:
 1. Copy the `.env.example` file to create a new `.env` file:
 
    ```bash
-   cp .env.example .env
+   cp .env-example .env
    ```
 
 2. Update the `.env` file with the necessary configuration for your project, including the database connection details, JWT secret, etc.
